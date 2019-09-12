@@ -33,4 +33,5 @@ class LoanForm(FlaskForm):
             ('RENT', 'Rent'),
             ('MORTGAGE', 'Mortgage'),
             ('OWN', 'Own'),
+            ('co_OWN', 'co_Own')
         ])
